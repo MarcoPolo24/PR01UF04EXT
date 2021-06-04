@@ -1,0 +1,10 @@
+{
+    "name": "marcp/marcp",
+    "authors": [
+        {
+            "name": "marcp",
+            "email": "marcpolojove@gmail.com"
+        }
+    ],
+    "require": {}
+}
